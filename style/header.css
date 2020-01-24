@@ -1,0 +1,20 @@
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo {
+max-height: none !important;
+}
+
+.vertical-align {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-content: center;
+}
+
+.horizontal-align {
+display: flex;
+}
